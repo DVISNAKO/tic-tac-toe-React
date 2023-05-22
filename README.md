@@ -1,3 +1,6 @@
+![Screenshot 2023-05-22 075506](https://github.com/DVISNAKO/tic-tac-toe-React/assets/106438454/b58256d1-dffd-46f8-8fdc-17b576a25138)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
